@@ -1,2 +1,1 @@
-# Research-Paper--WallStreetsBets-ML-Emotional-Sentiment
-A machine learning project that scrapes posts from Reddit’s WallStreetBets subreddit and applies sentiment analysis to explore the relationship between trader emotions and financial discussions.
+# Research-Paper--WallStreetsBets-ML-Emotional-SentimentThis project explores how emotions and sentiments expressed in Reddit’s r/WallStreetBets community influence financial discussions and market sentiment. Using NLP and ML models like Naive Bayes, FinBERT, and LSTM, the project analyzes posts and comments from recent posts that classify emotional tones and track sentiment trends over time
