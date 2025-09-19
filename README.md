@@ -1,4 +1,4 @@
-Abstract
+📖Abstract
 
 Retail trading behavior is heavily influenced by emotions such as fear, greed, and overconfidence, which often result in suboptimal or irrational decisions. Traditional algorithmic trading systems process financial data efficiently but fail to incorporate human psychological states into their strategies.
 
@@ -78,16 +78,6 @@ Deploy bot in simulated or real trading environment.
 👥 Authors
 
 Samruddhi Patodi
+
 Siddhant Singh Negi
 
-
-📜 License
-
-This repository is licensed under the MIT License – see the LICENSE
- file for details.
-
-✅ This style makes your repo look research-oriented and professional, almost like a pre-publication supplement.
-
-Would you like me to also design a diagram/flowchart (system architecture visualization) for your README so it looks more official and polished on GitHub?
-
-Is this conversation helpful so far?
